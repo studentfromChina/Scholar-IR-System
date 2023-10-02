@@ -1,4 +1,4 @@
-```markdown
+
 # Scholar Information Retrieval System
 
 This project is a Scholar Information Retrieval System that allows you to index and search scholarly papers. It consists of three main components: extracting metadata and text from PDFs using Grobid, building an inverted index using Lucene, and implementing a simple web search interface using Flask.
